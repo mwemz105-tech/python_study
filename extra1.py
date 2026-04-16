@@ -3,5 +3,5 @@ print(type(number))
 number=str(number)
 print(type(number))
 number1=95.12345
-number2=round(number1,4)
+number2=round(number1,2)
 print(number2)
