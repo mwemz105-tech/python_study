@@ -10,3 +10,4 @@ fruits[1]="lemon"
 print(fruits)
 numbers=[10,20,['mike','john','alex'],30,40,50]
 print(numbers[2][1])
+fruits=[A]

@@ -6,3 +6,4 @@ num2=input('Enter the second number')
 num2=int(num2)
 total=num1+num2
 print(total)
+
